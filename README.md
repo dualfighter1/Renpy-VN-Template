@@ -27,8 +27,8 @@ Creating or editing Chapters:
 - Improve the character definitions.
 - Add an achievements screen.
 - Add a character detail screen.
-- Implement chapter unlocking.
-
+- Add chapter unlocking.
+- Add image locations and transitions
 
 ## Authors
 
