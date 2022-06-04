@@ -2,6 +2,7 @@
 A basic Renpy template for easy modification. 
 I made this project for an easy renpy experience, this base has 6 prepared chapters, 4 prepared characters and is ready for images sound and story so feel free to let your creative side loose.
 I hope to update this as I improve the base for a fun and easy time making visual novels.
+Note: The start button currently does not funtion in this template. I hope to make it work at some point in the future.
 
 # Using this template
 Note: For a more detailed look into coding with Renpy follow [this link](https://www.renpy.org/doc/html/index.html) for the official documentation.
@@ -29,6 +30,7 @@ Creating or editing Chapters:
 - Add a character detail screen.
 - Add chapter unlocking.
 - Add image locations and transitions
+- Add some functionality to the currently unused start button
 
 ## Authors
 
