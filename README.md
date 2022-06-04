@@ -39,3 +39,7 @@ Creating or editing Chapters:
 
 This project is currently unused.
 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
