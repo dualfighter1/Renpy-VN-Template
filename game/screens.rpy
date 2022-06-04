@@ -293,12 +293,12 @@ screen chapters:
 
         vbox:
 
-            textbutton _("Chapter 1: Chapter Name")
-            textbutton _("Chapter 2: Chapter Name")
-            textbutton _("Chapter 3: Chapter Name")
-            textbutton _("Chapter 4: Chapter Name")
-            textbutton _("Chapter 5: Chapter Name")
-            textbutton _("Chapter 6: Chapter Name")
+            textbutton _("Chapter 1: Chapter Name") action Start("chapter1")
+            textbutton _("Chapter 2: Chapter Name") action Start("chapter2")
+            textbutton _("Chapter 3: Chapter Name") action Start("chapter3")
+            textbutton _("Chapter 4: Chapter Name") action Start("chapter4")
+            textbutton _("Chapter 5: Chapter Name") action Start("chapter5")
+            textbutton _("Chapter 6: Chapter Name") action Start("chapter6")
 ################################################################################
 ## Main and Game Menu Screens
 ################################################################################
