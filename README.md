@@ -8,7 +8,7 @@ Note: For a more detailed look into coding with Renpy follow [this link](https:/
 ## Downloading and preparing
 
 - Download by clicking Code and then Download ZIP.
-- Extract the files and then move them to your Projects folder.
+- Extract the files and then replace the files in a project. Dont replace or delete the `options.rpy` and `options.rpyc` files
 - Change the name from `Renpy-VN-Template` to whatever you want to call the project.
 
 ### Editing The Visual Novel
